@@ -12,9 +12,9 @@
 
 ## My Skills:
 
-* ![https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png]
-* ![https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png]
-* ![https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png]
-* ![https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png]
+* !(https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png)
+* !(https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png)
+* !(https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png)
+* !(https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png)
 
 ### I am Interested in Freelance opportunities, As for any other questions or concerns, please don't hesitate to get in touch with me!
