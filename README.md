@@ -14,7 +14,7 @@
 
 * ![HTML](https://user-images.githubusercontent.com/101928596/233100432-d96f8a3f-72df-4233-b2ae-513a54d2515c.png)
 * ![CSS](https://user-images.githubusercontent.com/101928596/233100703-1e9be39c-e66a-4092-a08c-11e88c3169e6.png)
-* ![JS](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png)
-* ![TailWind](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png)
+* ![JS](https://user-images.githubusercontent.com/101928596/233100895-f852967f-fdcf-46c1-800f-90b7c76eeda2.png)
+* ![TailWind](https://user-images.githubusercontent.com/101928596/233101050-6b0ae8d8-b0e7-4fbb-9477-4f8b5eb372f3.png)
 
 ### I am Interested in Freelance opportunities, As for any other questions or concerns, please don't hesitate to get in touch with me!
