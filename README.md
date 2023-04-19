@@ -12,7 +12,7 @@
 
 ## My Skills:
 
-* ![HTML](https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png)
+* ![HTML](https://user-images.githubusercontent.com/101928596/233100432-d96f8a3f-72df-4233-b2ae-513a54d2515c.png)
 * ![CSS](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png)
 * ![JS](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png)
 * ![TailWind](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png)
