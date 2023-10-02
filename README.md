@@ -6,6 +6,7 @@
 ### Here are some projects I finished:
 - [Houter Website](https://github.com/ermalwebdev/houter).
 - [Invoriem Website](https://github.com/ermalwebdev/invoriem).
+- [Shady Rhymes](https://github.com/ermalwebdev/sharyrhymes).
 - [My Portfolio](https://github.com/ermalwebdev/ermalshala).
 
 ## At the moment, I am learning JavaScript Data Structure & DOM Manipulation, at the same time when I learn something new I try to express it Immediately on the projects I build for my Portfolio.
